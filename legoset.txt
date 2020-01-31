@@ -1,0 +1,8 @@
+https://rebrickable.com/downloads/
+https://jacquesmattheij.com/sorting-lego-the-software-side/
+https://medium.com/@pacogarcia3/tensorflow-on-raspbery-pi-lego-sorter-ab60019dcf32
+
+
+https://github.com/ernestbofill/lego-image-dataset
+
+https://blog.francium.tech/build-your-own-image-classifier-with-tensorflow-and-keras-dc147a15e38e
